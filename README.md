@@ -6,6 +6,7 @@ Prerequisites:
 
 Launch by simply typing ./thefatcat.py
 
-Screenshots are :
+
+
 ![alt tag](https://github.com/rajeshmajumdar/TheFatCat/blob/master/ScreenShots/freakymonk.png)
 ![alt tag](https://github.com/rajeshmajumdar/TheFatCat/blob/master/ScreenShots/thefatcat.png)
